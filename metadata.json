@@ -1,0 +1,6 @@
+{
+  "name": "CareerCraft - AI Career Generator",
+  "description": "Personalized career content generator for students using AI to build professional summaries, skill gap reports, and roadmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
